@@ -1,4 +1,4 @@
 # quantitative-research
 
-These are just collection of my quantitative research and does not constitute any financial advice.
+Hi there! Thanks for veiwing my personal research project!
 
