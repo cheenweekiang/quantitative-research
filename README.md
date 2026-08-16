@@ -3,7 +3,7 @@
 Hi there! Thanks for viewing my personal research repository.
 
 ## About Me
-I am Cheen Wee Kiang, a Senior Investment Analyst specializing in equity analysis, corporate valuation, and quantitative finance. My research and professional focus heavily involve algorithmic trading, machine learning, and options trading. 
+I am wee kiang specializing in equity analysis and quantitative finance. My research and professional focus heavily involve algorithmic trading, machine learning, and options trading. 
 
 I primarily develop in Python and R, leveraging quantitative libraries like `cvxpy` and `pypfopt` to build out strategy backtests, conduct systematic research, and optimize portfolios.
 
